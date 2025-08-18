@@ -106,5 +106,14 @@
       "You should be using ** to match all subfolders to ignore runaway.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755517006.885211,
+    "completed_at": 1755517010.551066,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
