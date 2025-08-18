@@ -151,5 +151,14 @@
       "C:\\Users\\Kevin\\Desktop\\gitmastery-exercises\\clone-repo\\shapes"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518667.709714,
+    "completed_at": 1755518669.474098,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
   }
 ]
