@@ -133,5 +133,14 @@
       "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518229.635588,
+    "completed_at": 1755518231.387946,
+    "comments": [
+      "C:\\Users\\Kevin\\Desktop\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
   }
 ]
