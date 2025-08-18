@@ -6,7 +6,7 @@
     "comments": [
       "Great work linking remote called 'upstream'."
     ],
-    "status": "Complete"
+    "status": "Completed"
   },
   {
     "exercise_name": "link-me",
@@ -124,5 +124,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518109.108353,
+    "completed_at": 1755518111.269477,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
   }
 ]
