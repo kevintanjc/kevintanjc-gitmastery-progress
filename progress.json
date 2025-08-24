@@ -396,5 +396,14 @@
       "You have not fixed the greet function in greet.py"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756044118.029147,
+    "completed_at": 1756044118.653482,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
