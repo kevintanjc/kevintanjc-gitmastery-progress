@@ -387,5 +387,14 @@
       "You have not fixed the greet function in greet.py"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756043965.609963,
+    "completed_at": 1756043966.09184,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
   }
 ]
